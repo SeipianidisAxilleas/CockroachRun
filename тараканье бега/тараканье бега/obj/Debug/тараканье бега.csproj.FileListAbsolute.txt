@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\тараканье бега\тараканье бега\obj\Debug\тараканье бега.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\тараканье бега\тараканье бега\obj\Debug\тараканье_бега.Form1.resources
+C:\Users\student\source\repos\тараканье бега\тараканье бега\obj\Debug\тараканье_бега.Properties.Resources.resources
+C:\Users\student\source\repos\тараканье бега\тараканье бега\obj\Debug\тараканье бега.csproj.GenerateResource.cache
+C:\Users\student\source\repos\тараканье бега\тараканье бега\obj\Debug\тараканье бега.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\тараканье бега\тараканье бега\bin\Debug\тараканье бега.exe.config
+C:\Users\student\source\repos\тараканье бега\тараканье бега\bin\Debug\тараканье бега.exe
+C:\Users\student\source\repos\тараканье бега\тараканье бега\bin\Debug\тараканье бега.pdb
+C:\Users\student\source\repos\тараканье бега\тараканье бега\obj\Debug\тараканье бега.exe
+C:\Users\student\source\repos\тараканье бега\тараканье бега\obj\Debug\тараканье бега.pdb
